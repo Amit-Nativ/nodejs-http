@@ -1,0 +1,5 @@
+HTTP:
+1.Use the native node module ‘http’ and serve a basic index.html file with ‘Hello World’ to the port 9090 in localhost
+2.Enhance your server: route / will send an index.html with ‘Hello World’. Route /get will download a basic .txt file of your choosing
+3.If the route is unavailable, send a 404.html file with a proper indicator
+4.Asynchronous - read about it, learn it, do it.
